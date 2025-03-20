@@ -66,4 +66,3 @@ Tanpa kesedaran dan langkah perlindungan yang mencukupi, sesiapa sahaja boleh me
 
 ---
 
-Anda boleh **copy & paste** dokumen ini ke dalam **GitHub, Notion, atau mana-mana editor yang menyokong Markdown**! 🚀 Jika anda ingin sebarang tambahan atau perubahan, beritahu saya!
